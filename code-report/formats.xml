@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<types>
+	<type>
+		<name>Java</name>
+		<file-extensions>
+			<file-extension name="java">
+				<comment-markers>
+					<comment-marker>//</comment-marker>
+					<comment-marker>/*</comment-marker>
+					<comment-marker>*</comment-marker>
+				</comment-markers>
+			</file-extension>
+		</file-extensions>		
+	</type>
+	<type>
+		<name>C</name>
+		<file-extensions>
+			<file-extension name="c">
+				<comment-markers>
+					<comment-marker>//</comment-marker>
+					<comment-marker>/*</comment-marker>
+					<comment-marker>*</comment-marker>
+				</comment-markers>
+			</file-extension>
+		</file-extensions>		
+	</type>
+	<type>
+		<name>C++</name>
+		<file-extensions>
+			<file-extension name="cpp">
+				<comment-markers>
+					<comment-marker>//</comment-marker>
+					<comment-marker>/*</comment-marker>
+				</comment-markers>
+			</file-extension>
+		</file-extensions>		
+	</type>
+	<type>
+		<name>Python</name>
+		<file-extensions>
+			<file-extension name="py">
+			<comment-markers>
+				<comment-marker>#</comment-marker>
+			</comment-markers>
+			</file-extension>
+		</file-extensions>
+	</type>
+	<type>
+		<name>Visual Basic .NET</name>
+		<file-extensions>
+			<file-extension name="vb">
+			<comment-markers>
+				<comment-marker>'</comment-marker>
+			</comment-markers>
+			</file-extension>
+		</file-extensions>
+	</type>
+	<type>
+		<name>C#</name>
+		<file-extensions>
+			<file-extension name="cs">
+			<comment-markers>
+				<comment-markers>
+					<comment-marker>//</comment-marker>
+					<comment-marker>/*</comment-marker>
+				</comment-markers>
+			</comment-markers>
+			</file-extension>
+		</file-extensions>
+	</type>
+	<type>
+		<name>JavaScript</name>
+		<file-extensions>
+			<file-extension name="js">
+				<comment-markers>
+					<comment-marker>//</comment-marker>
+					<comment-marker>/*</comment-marker>
+					<comment-marker>*</comment-marker>
+				</comment-markers>
+			</file-extension>
+		</file-extensions>
+	</type>
+	<type>
+		<name>CSS</name>
+		<file-extensions>
+			<file-extension name="css">
+				<comment-markers>
+					<comment-marker>/*</comment-marker>
+				</comment-markers>
+			</file-extension>
+		</file-extensions>
+	</type>
+	<type>
+		<name>PHP</name>
+		<file-extensions>
+			<file-extension name="php">
+				<comment-markers>
+					<comment-marker>//</comment-marker>
+					<comment-marker>/*</comment-marker>
+					<comment-marker>*</comment-marker>
+					<comment-marker>#</comment-marker>
+				</comment-markers>
+			</file-extension>
+		</file-extensions>
+	</type>
+	<type>
+		<name>Unix-Shell</name>
+		<file-extensions>
+			<file-extension name="sh">
+			<comment-markers>
+				<comment-marker>#</comment-marker>
+			</comment-markers>
+			</file-extension>
+		</file-extensions>
+	</type>
+	<type>
+		<name>PowerShell</name>
+		<file-extensions>
+			<file-extension name="ps1">
+			<comment-markers>
+				<comment-marker>#</comment-marker>
+			</comment-markers>
+			</file-extension>
+		</file-extensions>
+	</type>
+	<type>
+		<name>SQL</name>
+		<file-extensions>
+			<file-extension name="sql">
+				<comment-markers>
+					<comment-marker>/*</comment-marker>
+					<comment-marker>*</comment-marker>
+				</comment-markers>
+			</file-extension>
+		</file-extensions>
+	</type>
+	<type>
+		<name>XML</name>
+		<file-extensions>
+			<file-extension name="xml">
+				<comment-markers>
+					<comment-marker>&lt;!--</comment-marker>
+				</comment-markers>
+			</file-extension>
+			<file-extension name="html">
+				<comment-markers>
+					<comment-marker>&lt;!--</comment-marker>
+				</comment-markers>
+			</file-extension>
+			<file-extension name="xhtml">
+				<comment-markers>
+					<comment-marker>&lt;!--</comment-marker>
+				</comment-markers>
+			</file-extension>
+		</file-extensions>
+	</type>
+	<type>
+		<name>Markdown</name>
+		<file-extensions>
+			<file-extension name="md">
+				<comment-markers>
+					<comment-marker>[comment]: #</comment-marker>
+					<comment-marker>[//]: #</comment-marker>
+					<comment-marker>[comment]: &lt;&gt;></comment-marker>
+					<comment-marker>[//]: &lt;&gt;></comment-marker>
+				</comment-markers>
+			</file-extension>
+		</file-extensions>
+	</type>
+	<type>
+		<name>XML</name>
+		<file-extensions>
+			<file-extension name="hs">
+				<comment-markers>
+					<comment-marker>--</comment-marker>
+					<comment-marker>{-</comment-marker>
+				</comment-markers>
+			</file-extension>
+		</file-extensions>
+	</type>
+</types>
